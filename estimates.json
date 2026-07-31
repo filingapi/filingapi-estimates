@@ -115,7 +115,7 @@
     "indicator": "CPI",
     "release_date": "2026-06-11",
     "estimate": "336.626",
-    "actual": null,
+    "actual": "332.568",
     "estimate_generated_at": "2026-07-07 11:41:41.183512"
   },
   {
@@ -136,7 +136,7 @@
     "indicator": "JOBLESS",
     "release_date": "2026-07-10",
     "estimate": "215089.071",
-    "actual": "187000.0",
+    "actual": "197000.0",
     "estimate_generated_at": "2026-07-06 18:47:55.618054"
   },
   {

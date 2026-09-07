@@ -129,14 +129,14 @@
     "indicator": "NFP",
     "release_date": "2026-07-03",
     "estimate": "159048.71",
-    "actual": "158858.0",
+    "actual": "159075.0",
     "estimate_generated_at": "2026-07-06 18:47:54.602462"
   },
   {
     "indicator": "JOBLESS",
     "release_date": "2026-07-10",
     "estimate": "215089.071",
-    "actual": "203000.0",
+    "actual": "206000.0",
     "estimate_generated_at": "2026-07-06 18:47:55.618054"
   },
   {
@@ -157,7 +157,7 @@
     "indicator": "NFP",
     "release_date": "2026-08-07",
     "estimate": "159048.71",
-    "actual": "158858.0",
+    "actual": "159075.0",
     "estimate_generated_at": "2026-07-06 18:47:52.865217"
   },
   {
@@ -171,7 +171,7 @@
     "indicator": "JOBLESS",
     "release_date": "2026-08-13",
     "estimate": "215089.071",
-    "actual": "203000.0",
+    "actual": "206000.0",
     "estimate_generated_at": "2026-07-06 18:47:53.895196"
   },
   {

@@ -143,14 +143,14 @@
     "indicator": "CPI",
     "release_date": "2026-07-15",
     "estimate": "336.626",
-    "actual": "333.918",
+    "actual": "334.98",
     "estimate_generated_at": "2026-07-06 18:47:54.942113"
   },
   {
     "indicator": "PPI",
     "release_date": "2026-07-15",
     "estimate": "159.254",
-    "actual": "156.927",
+    "actual": "157.604",
     "estimate_generated_at": "2026-07-06 18:47:55.296765"
   },
   {
@@ -164,7 +164,7 @@
     "indicator": "CPI",
     "release_date": "2026-08-12",
     "estimate": "332.497",
-    "actual": "333.918",
+    "actual": "334.98",
     "estimate_generated_at": "2026-07-06 18:47:53.220479"
   },
   {
@@ -178,7 +178,7 @@
     "indicator": "PPI",
     "release_date": "2026-08-13",
     "estimate": "157.115",
-    "actual": "156.927",
+    "actual": "157.604",
     "estimate_generated_at": "2026-07-06 18:47:53.574394"
   }
 ]
